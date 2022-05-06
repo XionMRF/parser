@@ -1,2 +1,2 @@
-# parser
-Simple parser for mos.ru
+# Тестовое задание для портала mos.ru
+Необходимо написать простой парсер сайта на Python
